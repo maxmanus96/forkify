@@ -1,2 +1,2 @@
 # forkify
-Forkify JS Project with Babel, webPack
+Forkify JS Project with ES6, NPM, Babel adn Webpack
